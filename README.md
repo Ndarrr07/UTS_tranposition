@@ -59,6 +59,6 @@ Dekripsi Kedua (matrik_posisi)
 
 ![Teks Alternatif](foto/login.png)
 
-### Form Dekripsi
+### Dekripsi
 
 ![Teks Alternatif](foto/dekripsi.png)
