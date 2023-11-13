@@ -49,16 +49,16 @@ Dekripsi Kedua (matrik_posisi)
 
 ### Form Regis
 
-![Teks Alternatif](foto/regis.jpg)
+![Teks Alternatif](foto/regis.png)
 
 ### Enkripsi
 
-![Teks Alternatif](foto/enkripi.jpg)
+![Teks Alternatif](foto/enkripsi.png)
 
 ### Form Login
 
-![Teks Alternatif](foto/login.jpg)
+![Teks Alternatif](foto/login.png)
 
 ### Form Dekripsi
 
-![Teks Alternatif](foto/dekripsi.jpg)
+![Teks Alternatif](foto/dekripsi.png)
